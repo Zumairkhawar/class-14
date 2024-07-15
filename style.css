@@ -1,0 +1,33 @@
+body{
+    background-color: red;
+}
+#a{
+    color: yellow;
+    text-decoration-line: overline  underline;
+    text-transform:  uppercase;
+}
+#c{
+    color: yellow;
+    text-align: center;
+    text-decoration-line: overline  underline;
+}
+#e{
+    background-color: cornflowerblue;
+}
+#z{
+    background-color: tomato;
+}
+#g{
+    background-color: cornflowerblue;
+}
+#y{
+    background-color: brown;
+    color: yellow;
+}
+#k{
+    color: cyan;
+    background-color: red;
+}
+#o{
+    background-color: brown;
+}
